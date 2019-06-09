@@ -11,7 +11,6 @@ function App() {
 	return (
 		<div>
 			<Login></Login>
-			<p>hello</p>
 			<Tabs>
 				<div label="Setup 1">
 					<Sortable></Sortable>
